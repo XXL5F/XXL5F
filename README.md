@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aauuan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m MAFIA
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning New things 
+- 💞️ I’m looking to collaborate on location github
+- 📫 How to reach me in Telegram https://t.me/aauuan
 
 <!---
 aauuan/aauuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
